@@ -1,6 +1,4 @@
 #include <iostream>
-#include <algorithm>
-#include <cmath>
 using namespace std;
 
 char mainBoard[6][7]  {'#','#','#','#','#','#','#',
